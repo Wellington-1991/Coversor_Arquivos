@@ -1,0 +1,6 @@
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\Conversor_arquivosUtil.exe
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\Conversor_arquivosUtil.dll
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\Conversor_arquivosUtil.deps.json
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\Conversor_arquivosUtil.runtimeconfig.json
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\Conversor_arquivosUtil.pdb
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\Newtonsoft.Json.dll

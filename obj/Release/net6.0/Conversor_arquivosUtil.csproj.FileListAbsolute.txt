@@ -1,0 +1,17 @@
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\bin\Release\net6.0\Conversor_arquivosUtil.exe
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\bin\Release\net6.0\Conversor_arquivosUtil.deps.json
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\bin\Release\net6.0\Conversor_arquivosUtil.runtimeconfig.json
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\bin\Release\net6.0\Conversor_arquivosUtil.dll
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\bin\Release\net6.0\Conversor_arquivosUtil.pdb
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.csproj.AssemblyReference.cache
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.AssemblyInfoInputs.cache
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.AssemblyInfo.cs
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.csproj.CoreCompileInputs.cache
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.csproj.CopyComplete
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.dll
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\refint\Conversor_arquivosUtil.dll
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.pdb
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\Conversor_arquivosUtil.genruntimeconfig.cache
+C:\Users\wellington.rafael\Documents\Wellington\curso_bibliotecas-Aula01\ConversorDLL\Conversor_arquivosUtil\Conversor_arquivosUtil\obj\Release\net6.0\ref\Conversor_arquivosUtil.dll
